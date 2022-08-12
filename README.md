@@ -1,9 +1,11 @@
 # Product-Coupon-Microservices
  
  ### Introduction
+ 
  This microservices demo project is based on Spring Cloud. It consists of two major microservices: product and coupon. The goal is to let them talk to each other to return a calculated price to us users.
  
- The project achieves the following:
+ ### Achievements
+ 
  - Implemented server-side load balancing with API Gateway and client-side load balancing with Ribbon
  - Established Fault Tolerance with Resilience 4j including Retry and Fallback
  - Enabled distributed tracing with Sleuth and installed Zipkin to visualize the flow of requests
