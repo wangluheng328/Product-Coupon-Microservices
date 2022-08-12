@@ -13,7 +13,7 @@
  
  ### Instruction To Use
  
- To demo this project, do the following:
+ To demo/launch this project, do the following:
  - Clone this repository to local
  - Create corresponding tables in your local MySQL database
  - Add the url, username, password of your DB to the config files in the `configrepo` folder
