@@ -9,7 +9,7 @@
  - Enabled distributed tracing with Sleuth and installed Zipkin to visualize the flow of requests
  - Implemented centralized configurations with Spring Cloud Bus and RabbitMQ; a cloud-bus-level configuration refresh will update all microservices’ configs
  
- ### Instruction For Use
+ ### Instruction To Use
  
  To demo this project, do the following:
  - Clone this repository to local
