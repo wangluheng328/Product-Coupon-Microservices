@@ -2,7 +2,7 @@
  
  ### Introduction
  
- This microservices demo project is based on Spring Cloud. It consists of two major microservices: product and coupon. The goal is to let them talk to each other to return a calculated price to us users.
+ This microservice demo project is based on Spring Cloud and Eureka. It consists of two major types of microservices: product and coupon. The goal is to let them talk to each other to return a calculated price to us users.
  
  ### Achievements
  
