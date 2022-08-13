@@ -7,7 +7,7 @@
  ### Achievements
  
  - Implemented server-side load balancing with API Gateway and client-side load balancing with Ribbon
- - Established Fault Tolerance with Resilience 4j including Retry and Fallback
+ - Established Fault Tolerance with Resilience4j including Retry and Fallback
  - Enabled distributed tracing with Sleuth and installed Zipkin to visualize the flow of requests
  - Implemented centralized configurations with Spring Cloud Bus and RabbitMQ; a cloud-bus-level configuration refresh will update all microservices’ configs
  
